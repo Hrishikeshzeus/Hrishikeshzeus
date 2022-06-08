@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Hrishikeshzeus
+- 👋 Hi, I’m @Hrishikesh Banerjee
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Html Css JavaScript
 - 💞️ I’m looking to collaborate on ...
